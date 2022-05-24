@@ -1,2 +1,8 @@
 # Bimesh.Portfolio
-Hi, my name is Bimesh Adhikari. I completed my Master of Information Technology in Data Science and Network Security from Charles Sturt University,Australia. Here, in this site you can view my project portfolio related to Data Analyst.
+
+Project 1:Hotel Analysis:Project Overview Develop a databse to anlayze and visualize Hotel Booking data
+
+First the dataset is downloaded and shaped it.
+Database is built
+Connected Power BI to a Database
+And, finally Visualize Data in Power Bi
