@@ -1,6 +1,6 @@
 # Bimesh.Portfolio
 
-[Project 1:Hotel Analysis:Project Overview] (https://github.com/Bimeshadhikari/AdventureWorks)
+[Project 1:Hotel Analysis:Project Overview] (https://github.com/Bimeshadhikari/HotelAnalaysis)
 
 1)Develop a databse to anlayze and visualize Hotel Booking data.
 
