@@ -1,6 +1,6 @@
 # Bimesh.Portfolio
 
-**[Project 1:Hotel Analysis:Project Overview],(https://github.com/Bimeshadhikari/HotelAnalaysis)**
+**[Project 1:Hotel Analysis:Project Overview](https://github.com/Bimeshadhikari/HotelAnalaysis).**
 
 1)Develop a databse to anlayze and visualize Hotel Booking data.
 
@@ -13,7 +13,7 @@
 5)And, finally Visualize Data in Power Bi
 
 
-**[Project 2: Adventure Work:Project Overview],(https://github.com/Bimeshadhikari/AdventureWorks)**
+**[Project 2: Adventure Work:Project Overview](https://github.com/Bimeshadhikari/AdventureWorks).**
 
 1)In this projetcs, there is a bundle of csv files from Adventure work cycle which contains information regarding the transcations, returns, products, customers and territories. 
 
