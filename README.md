@@ -2,7 +2,7 @@
 
 **[Project 1:Hotel Analysis:Project Overview](https://github.com/Bimeshadhikari/HotelAnalaysis).**
 
-1)Develop a databse to anlayze and visualize Hotel Booking data.
+1)Develop a database to anlayze and visualize Hotel Booking data.
 
 2)First the dataset is downloaded and shaped it.
 
@@ -15,11 +15,11 @@
 
 **[Project 2: Adventure Work:Project Overview](https://github.com/Bimeshadhikari/AdventureWorks).**
 
-1)In this projetcs, there is a bundle of csv files from Adventure work cycle which contains information regarding the transcations, returns, products, customers and territories. 
+1)In this projects, there is a bundle of csv files from Adventure work cycle which contains information regarding the transcations, returns, products, customers and territories. 
 
-2)My task, is to design and execite end to end business solution.
+2)My task, is to design and execute end to end business solution.
 
-3)Steps or process i have done to accompoilish this task are mention below:- 
+3)Steps or process i have done to complete this task are mention below:- 
 
  -Connecting and Shaping Data 
  
@@ -35,10 +35,10 @@
  
  5) So inorder to complete this task i have taken certain process which are mentioned below:-
  
- - At first,i connected the olympic game dataset in seqel server
+ - At first, the olympic game dataset is connected in seqel server
  
- - Secondly, i performed some queries to get the relevent data only
+ - Secondly, some queries were performed to get the relevent data only
  
- - Once the query is performed, i loaded this sequel file into power bi 
+ - Once the query is performed, sequel file is loaded into power BI
  
  - And, finally the dashboard is build. 
