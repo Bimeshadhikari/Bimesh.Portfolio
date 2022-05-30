@@ -27,7 +27,7 @@
  
  -Visualizing Data with Reports
  
- **[Project 3: Olympic Games Analysis] (https://github.com/Bimeshadhikari/Olympic_games).**
+ **[Project 3: Olympic Games Analysis:Project Overview](https://github.com/Bimeshadhikari/Olympic_games).**
  1) In this project, i have olympic games dataset. 
  2) My task, in Olypmic games project is to visualize data and make reader understand how countries have performed.
  3) So inorder to complete this task i have taken certain process which are mentioned below:-
