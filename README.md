@@ -33,7 +33,7 @@
  
  3) My task, in Olypmic games project is to visualize data and make reader understand how countries have performed.
  
- 5) So inorder to complete this task i have taken certain process which are mentioned below:-
+ 4) So inorder to complete this task i have taken certain process which are mentioned below:-
  
  - At first, the olympic game dataset is connected in seqel server
  
