@@ -43,9 +43,12 @@
  
  - And, finally the dashboard is build. 
  
- **[Project 3: Olympic Games Analysis:Project Overview](https://github.com/Bimeshadhikari/Olympic_games).**
+ **[Project 4: Spotofy Hits Music Analysis:Project Overview](https://github.com/Bimeshadhikari/Spotify).**
  
 -First the csv file is downloaded form kaggle regarding spofity top song from 1998 to 2000AD.
+
 -Prepared the Business Question.
+
 -then the data was explored in depth, prepared and analyze
+
 -findings is presented making the dashboard for spotify.
