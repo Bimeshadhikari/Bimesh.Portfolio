@@ -43,7 +43,7 @@
  
  - And, finally the dashboard is build. 
  
- **[Project 4: Spotofy Hits Music Analysis:Project Overview](https://github.com/Bimeshadhikari/Spotify).**
+ **[Project 4: Spotofy Hits Music Analysis:Project Overview](https://github.com/Bimeshadhikari/Spotify_Dashboard).**
  
 -First the csv file is downloaded form kaggle regarding spofity top song from 1998 to 2000AD.
 
