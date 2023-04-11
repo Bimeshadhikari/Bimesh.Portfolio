@@ -52,3 +52,15 @@
 -then the data was explored in depth, prepared and analyze
 
 -findings is presented making the dashboard for spotify.
+
+**[Project 5: Adventure work Sales Analysis:Project Overview]().**
+1)Business question is prepared.
+
+2)Data exlploration is done in SSMS.
+
+3)The required data are load and transform in power Bi.
+
+4) Dax function is carried out for further required information.
+
+5) Dashboard is bulit.
+
